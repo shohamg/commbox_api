@@ -1,0 +1,4 @@
+boto3==1.35.68
+fastparquet==2024.11.0
+pandas==2.2.3
+requests==2.32.3
